@@ -51,7 +51,6 @@ namespace SeleniumTest
                 // ele4.Click();
                 // driver.Navigate().Refresh();
             // }
-
             // Thread.Sleep(30000);
             // driver.Close();
         }
